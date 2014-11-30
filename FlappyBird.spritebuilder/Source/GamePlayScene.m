@@ -13,7 +13,7 @@
     timeSinceObstacle = 0.0f;
 }
 
-- update:(CCTime)delta
+- (void)update:(CCTime)delta
 {
     // put update code here
     // Increment the time since the last obstacle was added
