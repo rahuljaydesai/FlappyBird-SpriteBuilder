@@ -9,6 +9,7 @@
 #import "MainScene.h"
 #import "Obstacle.h"
 
+
 @implementation MainScene {
     CCNode *_ground1;
     CCNode *_ground2;
