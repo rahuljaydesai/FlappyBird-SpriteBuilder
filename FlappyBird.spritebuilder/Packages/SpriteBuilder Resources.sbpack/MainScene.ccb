@@ -5,9 +5,9 @@
 	<key>SequencerJoints</key>
 	<dict>
 		<key>hidden</key>
-		<false/>
+		<true/>
 		<key>locked</key>
-		<false/>
+		<true/>
 	</dict>
 	<key>UUID</key>
 	<integer>14</integer>
@@ -447,7 +447,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>FlappyBirdArtPack/bush.png</string>
+							<string></string>
 						</array>
 					</dict>
 					<dict>
@@ -555,7 +555,7 @@
 						<key>value</key>
 						<array>
 							<string></string>
-							<string>FlappyBirdArtPack/bush.png</string>
+							<string></string>
 						</array>
 					</dict>
 					<dict>
@@ -580,8 +580,6 @@
 						<array/>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
